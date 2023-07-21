@@ -15,12 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
-
-We are using below libraries for this project 
-flutter_riverpod ->  State Management and Data Binding
-morse_code_translator -> Convert Sample text to encode form and Decoding the Morse code to encoded text.
-
-
- 
-
+We are using below libraries for this project
+flutter_riverpod -> State Management and Data Binding

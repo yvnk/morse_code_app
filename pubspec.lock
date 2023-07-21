@@ -123,14 +123,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.1"
-  morse_code_translator:
-    dependency: "direct main"
-    description:
-      name: morse_code_translator
-      sha256: "51c6fd52a53785d59563d2ed8422739854ad98046dcb64fcf17bf3316a1838cb"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.0.1"
   path:
     dependency: transitive
     description:
